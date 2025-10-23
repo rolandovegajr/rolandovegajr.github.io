@@ -1,3 +1,3 @@
-# Hello, my name is Rolando Vega Jr. I am currently in the IT Data Analytics program at Western Technical College. I have always been interested in the IT field but have not had the courage
+Hello, my name is Rolando Vega Jr. I am currently in the IT Data Analytics program at Western Technical College. I have always been interested in the IT field but have not had the courage
 to take a step forward until now. I am returning to school because I want to be able to provide financial security and stability for my wife and daughter. My wife and daughter are the most important things to me,
 which is why I am striving to do the best I can. I am a quick learner and a motivated individual. I currently work for Kohl's in Onalaska as a Store Associate. I have 10+ years of customer service experience. 
