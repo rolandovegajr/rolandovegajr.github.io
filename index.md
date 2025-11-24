@@ -13,3 +13,5 @@ Long Term Goals: Graduate with my degree, Pay off my Car
 [IT Explorations](https://rolandovegajr.github.io/IT-Explorations/)
 
 [Database Foundations w/SQL](https://rolandovegajr.github.io/Database-Foundations-w-SQL/)
+
+[Quantitative Reasoning](https://rolandovegajr.github.io/Quantitative-Reasoning/)
