@@ -11,3 +11,5 @@ Long Term Goals: Graduate with my degree, Pay off my Car
 [Rolando Vega's Resume](https://github.com/user-attachments/files/23701142/Vega.Jr.Rolando.Resume__One.PageUpdated.pdf)
 
 [IT Explorations](https://rolandovegajr.github.io/IT-Explorations/)
+
+[Database Foundations w/SQL](https://rolandovegajr.github.io/Database-Foundations-w-SQL/)
